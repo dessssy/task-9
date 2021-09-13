@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gitlab.com/booost/boilerplates/git-task-ooo.git"
+    "url": "git+https://gitlab.com/booost/boilerplates/git-basics.git"
   },
   "author": "Association Booost",
   "license": "ISC",
   "bugs": {
-    "url": "https://gitlab.com/booost/boilerplates/git-task/issues"
+    "url": "https://gitlab.com/booost/boilerplates/git-basics/issues"
   },
-  "homepage": "https://gitlab.com/booost/boilerplates/git-task#readme"
+  "homepage": "https://gitlab.com/booost/boilerplates/git-basics#readme"
 }
